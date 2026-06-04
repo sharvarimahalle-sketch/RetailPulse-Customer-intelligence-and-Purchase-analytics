@@ -72,12 +72,12 @@ This project uncovers insights into customer spending patterns, product preferen
 ## Key Results
 
 - **Male customers** generated 2× the revenue of female customers ($157K vs $75K)
-- **Young Adults** are the highest-revenue age group ($62K)
+- **Young Adults** are the highest revenue age group ($62K)
 - **Clothing** leads in both revenue ($104K) and sales volume (1.7K units)
-- **839 customers** used discounts yet spent above average — high-value discount users
-- **73% of customers are unsubscribed** — significant growth opportunity
+- **839 customers** used discounts yet spent above average , high value discount users
+- **73% of customers are unsubscribed** , significant growth opportunity
 - **80% of customers are Loyal** (11+ purchases), showing strong retention
-- Repeat buyers (5+ purchases) skew heavily non-subscribed (2,518 vs 958) — a conversion gap
+- Repeat buyers (5+ purchases) skew heavily non-subscribed (2,518 vs 958) , a conversion gap
 
 ---
 
